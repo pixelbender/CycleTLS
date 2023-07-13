@@ -3,7 +3,7 @@ package cycletls
 import (
 	"time"
 
-	http "github.com/pixelbender/fhttp"
+	http "github.com/pixelbender/CycleTLS/cycletls/fhttp"
 	"golang.org/x/net/proxy"
 )
 

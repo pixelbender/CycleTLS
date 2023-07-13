@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/andybalholm/brotli"
-	utls "github.com/pixelbender/utls"
+	utls "github.com/pixelbender/CycleTLS/cycletls/utls"
 )
 
 const (

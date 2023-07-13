@@ -1,11 +1,12 @@
 package main
 
 import (
-	"github.com/Danny-Dasilva/CycleTLS/cycletls"
 	"log"
+	// "net/http"
 	"runtime"
 	"time"
-	// "net/http"
+
+	"github.com/pixelbender/CycleTLS/cycletls"
 )
 
 func main() {

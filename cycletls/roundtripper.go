@@ -8,9 +8,9 @@ import (
 	"strings"
 	"sync"
 
-	http "github.com/pixelbender/fhttp"
-	http2 "github.com/pixelbender/fhttp/http2"
-	utls "github.com/pixelbender/utls"
+	http "github.com/pixelbender/CycleTLS/cycletls/fhttp"
+	http2 "github.com/pixelbender/CycleTLS/cycletls/fhttp/http2"
+	utls "github.com/pixelbender/CycleTLS/cycletls/utls"
 	"golang.org/x/net/proxy"
 )
 

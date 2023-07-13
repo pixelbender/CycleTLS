@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"sync"
 
-	http "github.com/pixelbender/fhttp"
-	http2 "github.com/pixelbender/fhttp/http2"
+	http "github.com/pixelbender/CycleTLS/cycletls/fhttp"
+	http2 "github.com/pixelbender/CycleTLS/cycletls/fhttp/http2"
 	"golang.org/x/net/proxy"
 )
 

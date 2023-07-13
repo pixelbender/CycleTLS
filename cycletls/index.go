@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/gorilla/websocket"
-	http "github.com/pixelbender/fhttp"
+	http "github.com/pixelbender/CycleTLS/cycletls/fhttp"
 )
 
 // Options sets CycleTLS client options
