@@ -1,8 +1,9 @@
 package cycletls_test
 
 import (
-	cycletls "github.com/Danny-Dasilva/CycleTLS/cycletls"
 	"testing"
+
+	cycletls "github.com/pixelbender/CycleTLS/cycletls"
 )
 
 const (

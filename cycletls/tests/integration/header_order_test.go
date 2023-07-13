@@ -6,12 +6,12 @@ package cycletls_test
 import (
 	//"fmt"
 	"encoding/json"
-	"github.com/PuerkitoBio/goquery"
 	"log"
 	"strings"
 	"testing"
 
-	cycletls "github.com/Danny-Dasilva/CycleTLS/cycletls"
+	"github.com/PuerkitoBio/goquery"
+	cycletls "github.com/pixelbender/CycleTLS/cycletls"
 )
 
 type HttpBinHeaders struct {
